@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_miatoll.mk
+    $(LOCAL_DIR)/potato_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_miatoll-user \
-    pixys_miatoll-userdebug \
-    pixys_miatoll-eng
+    potato_miatoll-user \
+    potato_miatoll-userdebug \
+    potato_miatoll-eng
